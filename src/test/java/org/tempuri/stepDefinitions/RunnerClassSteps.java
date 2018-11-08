@@ -8,8 +8,7 @@ import org.junit.runner.RunWith;
 @RunWith(Cucumber.class)
 @CucumberOptions(features = {"classpath:src/test/resources/feature"},
         monochrome = true,
-        plugin = {"html:target/cucumber-html-report", "json:target/cucumber-json-report.json"},
-        glue = "steps")
+        plugin = {"html:target/cucumber-html-report", "json:target/cucumber-json-report.json"})
 
 public class RunnerClassSteps {
 

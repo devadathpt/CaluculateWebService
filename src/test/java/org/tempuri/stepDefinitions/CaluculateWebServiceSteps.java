@@ -15,7 +15,7 @@ public class CaluculateWebServiceSteps {
     private org.tempuri.Calculator calculator = new Calculator();
     private int result;
 
-    @Step
+
     @Given("^I am using a caluculator webservice (.*)$")
     public void iAmUsingAWebService(String webService) {
         logger.info("Testing WebService" + webService);
@@ -23,7 +23,7 @@ public class CaluculateWebServiceSteps {
 
     }
 
-    @Step
+
     @And("^I want to perform (.*) of (.*) and (.*)$")
     public void iWantToPerformOperation(String operation, int a, int b) {
         switch (operation) {
@@ -59,7 +59,7 @@ public class CaluculateWebServiceSteps {
 
     }
 
-    @Step
+
     @Then("^the result is (.*)$")
     public void theResultIs(int c) {
         Assert.assertEquals(c, result);
