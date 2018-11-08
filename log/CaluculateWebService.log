@@ -1,0 +1,128 @@
+2018-11-08 12:45:28 [main] INFO  CaluculateWebServiceSteps:20 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 12:45:28 [main] INFO  CaluculateWebServiceSteps:21 -                
+2018-11-08 12:45:28 [main] INFO  CaluculateWebServiceSteps:32 - addition  of 5 and 3: Result is :8          
+2018-11-08 12:45:28 [main] INFO  CaluculateWebServiceSteps:33 -                
+2018-11-08 12:45:29 [main] INFO  CaluculateWebServiceSteps:20 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 12:45:29 [main] INFO  CaluculateWebServiceSteps:21 -                
+2018-11-08 12:45:29 [main] INFO  CaluculateWebServiceSteps:39 - substraction  of 5 and 3: Result is :2          
+2018-11-08 12:45:29 [main] INFO  CaluculateWebServiceSteps:40 -                
+2018-11-08 12:45:29 [main] INFO  CaluculateWebServiceSteps:20 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 12:45:29 [main] INFO  CaluculateWebServiceSteps:21 -                
+2018-11-08 12:45:29 [main] INFO  CaluculateWebServiceSteps:46 - multiplication  of 2 and 6: Result is :12          
+2018-11-08 12:45:29 [main] INFO  CaluculateWebServiceSteps:47 -                
+2018-11-08 12:45:29 [main] INFO  CaluculateWebServiceSteps:20 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 12:45:29 [main] INFO  CaluculateWebServiceSteps:21 -                
+2018-11-08 12:45:30 [main] INFO  CaluculateWebServiceSteps:53 - divide  of 10 and 5: Result is :2          
+2018-11-08 12:45:30 [main] INFO  CaluculateWebServiceSteps:54 -                
+2018-11-08 13:13:41 [main] INFO  CaluculateWebServiceSteps:22 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 13:13:41 [main] INFO  CaluculateWebServiceSteps:23 -                
+2018-11-08 13:13:42 [main] INFO  CaluculateWebServiceSteps:35 - addition  of 5 and 3: Result is :8          
+2018-11-08 13:13:42 [main] INFO  CaluculateWebServiceSteps:36 -                
+2018-11-08 13:13:42 [main] INFO  CaluculateWebServiceSteps:22 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 13:13:42 [main] INFO  CaluculateWebServiceSteps:23 -                
+2018-11-08 13:13:42 [main] INFO  CaluculateWebServiceSteps:42 - substraction  of 5 and 3: Result is :2          
+2018-11-08 13:13:42 [main] INFO  CaluculateWebServiceSteps:43 -                
+2018-11-08 13:13:42 [main] INFO  CaluculateWebServiceSteps:22 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 13:13:42 [main] INFO  CaluculateWebServiceSteps:23 -                
+2018-11-08 13:13:42 [main] INFO  CaluculateWebServiceSteps:49 - multiplication  of 2 and 6: Result is :12          
+2018-11-08 13:13:42 [main] INFO  CaluculateWebServiceSteps:50 -                
+2018-11-08 13:13:43 [main] INFO  CaluculateWebServiceSteps:22 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 13:13:43 [main] INFO  CaluculateWebServiceSteps:23 -                
+2018-11-08 13:13:43 [main] INFO  CaluculateWebServiceSteps:56 - divide  of 10 and 5: Result is :2          
+2018-11-08 13:13:43 [main] INFO  CaluculateWebServiceSteps:57 -                
+2018-11-08 13:15:33 [main] INFO  CaluculateWebServiceSteps:22 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 13:15:33 [main] INFO  CaluculateWebServiceSteps:23 -                
+2018-11-08 13:15:34 [main] INFO  CaluculateWebServiceSteps:35 - addition  of 5 and 3: Result is :8          
+2018-11-08 13:15:34 [main] INFO  CaluculateWebServiceSteps:36 -                
+2018-11-08 13:15:34 [main] INFO  CaluculateWebServiceSteps:22 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 13:15:34 [main] INFO  CaluculateWebServiceSteps:23 -                
+2018-11-08 13:15:34 [main] INFO  CaluculateWebServiceSteps:42 - substraction  of 5 and 3: Result is :2          
+2018-11-08 13:15:34 [main] INFO  CaluculateWebServiceSteps:43 -                
+2018-11-08 13:15:34 [main] INFO  CaluculateWebServiceSteps:22 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 13:15:34 [main] INFO  CaluculateWebServiceSteps:23 -                
+2018-11-08 13:15:35 [main] INFO  CaluculateWebServiceSteps:49 - multiplication  of 2 and 6: Result is :12          
+2018-11-08 13:15:35 [main] INFO  CaluculateWebServiceSteps:50 -                
+2018-11-08 13:15:35 [main] INFO  CaluculateWebServiceSteps:22 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 13:15:35 [main] INFO  CaluculateWebServiceSteps:23 -                
+2018-11-08 13:15:35 [main] INFO  CaluculateWebServiceSteps:56 - divide  of 10 and 5: Result is :2          
+2018-11-08 13:15:35 [main] INFO  CaluculateWebServiceSteps:57 -                
+2018-11-08 13:38:53 [main] INFO  CaluculateWebServiceSteps:22 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 13:38:53 [main] INFO  CaluculateWebServiceSteps:23 -                
+2018-11-08 13:38:54 [main] INFO  CaluculateWebServiceSteps:35 - addition  of 5 and 3: Result is :8          
+2018-11-08 13:38:54 [main] INFO  CaluculateWebServiceSteps:36 -                
+2018-11-08 13:38:55 [main] INFO  CaluculateWebServiceSteps:22 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 13:38:55 [main] INFO  CaluculateWebServiceSteps:23 -                
+2018-11-08 13:38:55 [main] INFO  CaluculateWebServiceSteps:42 - substraction  of 5 and 3: Result is :2          
+2018-11-08 13:38:55 [main] INFO  CaluculateWebServiceSteps:43 -                
+2018-11-08 13:38:55 [main] INFO  CaluculateWebServiceSteps:22 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 13:38:55 [main] INFO  CaluculateWebServiceSteps:23 -                
+2018-11-08 13:38:55 [main] INFO  CaluculateWebServiceSteps:49 - multiplication  of 2 and 6: Result is :12          
+2018-11-08 13:38:55 [main] INFO  CaluculateWebServiceSteps:50 -                
+2018-11-08 13:38:56 [main] INFO  CaluculateWebServiceSteps:22 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 13:38:56 [main] INFO  CaluculateWebServiceSteps:23 -                
+2018-11-08 13:38:56 [main] INFO  CaluculateWebServiceSteps:56 - divide  of 10 and 5: Result is :2          
+2018-11-08 13:38:56 [main] INFO  CaluculateWebServiceSteps:57 -                
+2018-11-08 13:45:54 [main] INFO  CaluculateWebServiceSteps:22 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 13:45:54 [main] INFO  CaluculateWebServiceSteps:23 -                
+2018-11-08 13:45:55 [main] INFO  CaluculateWebServiceSteps:35 - addition  of 5 and 3: Result is :8          
+2018-11-08 13:45:55 [main] INFO  CaluculateWebServiceSteps:36 -                
+2018-11-08 13:45:57 [main] INFO  CaluculateWebServiceSteps:22 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 13:45:57 [main] INFO  CaluculateWebServiceSteps:23 -                
+2018-11-08 13:45:57 [main] INFO  CaluculateWebServiceSteps:42 - substraction  of 5 and 3: Result is :2          
+2018-11-08 13:45:57 [main] INFO  CaluculateWebServiceSteps:43 -                
+2018-11-08 13:45:57 [main] INFO  CaluculateWebServiceSteps:22 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 13:45:57 [main] INFO  CaluculateWebServiceSteps:23 -                
+2018-11-08 13:45:58 [main] INFO  CaluculateWebServiceSteps:49 - multiplication  of 2 and 6: Result is :12          
+2018-11-08 13:45:58 [main] INFO  CaluculateWebServiceSteps:50 -                
+2018-11-08 13:45:58 [main] INFO  CaluculateWebServiceSteps:22 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 13:45:58 [main] INFO  CaluculateWebServiceSteps:23 -                
+2018-11-08 13:45:58 [main] INFO  CaluculateWebServiceSteps:56 - divide  of 10 and 5: Result is :2          
+2018-11-08 13:45:58 [main] INFO  CaluculateWebServiceSteps:57 -                
+2018-11-08 13:49:13 [main] INFO  CaluculateWebServiceSteps:22 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 13:49:13 [main] INFO  CaluculateWebServiceSteps:23 -                
+2018-11-08 13:49:14 [main] INFO  CaluculateWebServiceSteps:35 - addition  of 5 and 3: Result is :8          
+2018-11-08 13:49:14 [main] INFO  CaluculateWebServiceSteps:36 -                
+2018-11-08 13:49:14 [main] INFO  CaluculateWebServiceSteps:22 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 13:49:14 [main] INFO  CaluculateWebServiceSteps:23 -                
+2018-11-08 13:49:15 [main] INFO  CaluculateWebServiceSteps:42 - substraction  of 5 and 3: Result is :2          
+2018-11-08 13:49:15 [main] INFO  CaluculateWebServiceSteps:43 -                
+2018-11-08 13:49:15 [main] INFO  CaluculateWebServiceSteps:22 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 13:49:15 [main] INFO  CaluculateWebServiceSteps:23 -                
+2018-11-08 13:49:15 [main] INFO  CaluculateWebServiceSteps:49 - multiplication  of 2 and 6: Result is :12          
+2018-11-08 13:49:15 [main] INFO  CaluculateWebServiceSteps:50 -                
+2018-11-08 13:49:15 [main] INFO  CaluculateWebServiceSteps:22 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 13:49:15 [main] INFO  CaluculateWebServiceSteps:23 -                
+2018-11-08 13:49:16 [main] INFO  CaluculateWebServiceSteps:56 - divide  of 10 and 5: Result is :2          
+2018-11-08 13:49:16 [main] INFO  CaluculateWebServiceSteps:57 -                
+2018-11-08 14:51:43 [main] INFO  CaluculateWebServiceSteps:28 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 14:51:43 [main] INFO  CaluculateWebServiceSteps:29 -                
+2018-11-08 14:51:44 [main] INFO  CaluculateWebServiceSteps:41 - addition  of 5 and 3: Result is :8          
+2018-11-08 14:51:44 [main] INFO  CaluculateWebServiceSteps:42 -                
+2018-11-08 14:51:44 [main] INFO  CaluculateWebServiceSteps:28 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 14:51:44 [main] INFO  CaluculateWebServiceSteps:29 -                
+2018-11-08 14:51:44 [main] INFO  CaluculateWebServiceSteps:48 - substraction  of 5 and 3: Result is :2          
+2018-11-08 14:51:44 [main] INFO  CaluculateWebServiceSteps:49 -                
+2018-11-08 14:51:45 [main] INFO  CaluculateWebServiceSteps:28 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 14:51:45 [main] INFO  CaluculateWebServiceSteps:29 -                
+2018-11-08 14:51:45 [main] INFO  CaluculateWebServiceSteps:55 - multiplication  of 2 and 6: Result is :12          
+2018-11-08 14:51:45 [main] INFO  CaluculateWebServiceSteps:56 -                
+2018-11-08 14:51:45 [main] INFO  CaluculateWebServiceSteps:28 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 14:51:45 [main] INFO  CaluculateWebServiceSteps:29 -                
+2018-11-08 14:51:45 [main] INFO  CaluculateWebServiceSteps:62 - divide  of 10 and 5: Result is :2          
+2018-11-08 14:51:45 [main] INFO  CaluculateWebServiceSteps:63 -                
+2018-11-08 14:52:55 [main] INFO  CaluculateWebServiceSteps:28 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 14:52:55 [main] INFO  CaluculateWebServiceSteps:29 -                
+2018-11-08 14:52:55 [main] INFO  CaluculateWebServiceSteps:41 - addition  of 5 and 3: Result is :8          
+2018-11-08 14:52:55 [main] INFO  CaluculateWebServiceSteps:42 -                
+2018-11-08 14:52:55 [main] INFO  CaluculateWebServiceSteps:28 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 14:52:55 [main] INFO  CaluculateWebServiceSteps:29 -                
+2018-11-08 14:52:56 [main] INFO  CaluculateWebServiceSteps:48 - substraction  of 5 and 3: Result is :2          
+2018-11-08 14:52:56 [main] INFO  CaluculateWebServiceSteps:49 -                
+2018-11-08 14:52:56 [main] INFO  CaluculateWebServiceSteps:28 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 14:52:56 [main] INFO  CaluculateWebServiceSteps:29 -                
+2018-11-08 14:52:56 [main] INFO  CaluculateWebServiceSteps:55 - multiplication  of 2 and 6: Result is :12          
+2018-11-08 14:52:56 [main] INFO  CaluculateWebServiceSteps:56 -                
+2018-11-08 14:52:56 [main] INFO  CaluculateWebServiceSteps:28 - Testing WebServicehttp://www.dneonline.com/calculator.asmx?WSDL
+2018-11-08 14:52:56 [main] INFO  CaluculateWebServiceSteps:29 -                
+2018-11-08 14:52:56 [main] INFO  CaluculateWebServiceSteps:62 - divide  of 10 and 5: Result is :2          
+2018-11-08 14:52:56 [main] INFO  CaluculateWebServiceSteps:63 -                

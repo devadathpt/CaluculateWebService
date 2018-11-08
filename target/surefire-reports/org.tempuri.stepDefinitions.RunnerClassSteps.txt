@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: org.tempuri.stepDefinitions.RunnerClassSteps
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.203 sec <<< FAILURE! - in org.tempuri.stepDefinitions.RunnerClassSteps
+initializationError(org.tempuri.stepDefinitions.RunnerClassSteps)  Time elapsed: 0.011 sec  <<< ERROR!
+java.lang.NoSuchMethodError: cucumber.runtime.RuntimeOptions.getTagFilters()Ljava/util/List;
+
